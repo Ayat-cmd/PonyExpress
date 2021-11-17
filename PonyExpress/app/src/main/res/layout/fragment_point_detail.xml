@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical" android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/colorAccentBG"
+>
+
+    <pro.midev.ponyexpress.ui.views.ToolbarView
+            android:id="@+id/vToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+    />
+
+    <LinearLayout
+            android:id="@+id/vgButtons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            android:background="@drawable/shape_top_border"
+    >
+        <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnOpenMap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/points_detail_open_map"
+                style="@style/ButtonSolid"
+                android:layout_marginBottom="8dp"
+        />
+        <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnWay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/points_detail_open_way"
+                style="@style/ButtonEmpty"
+        />
+    </LinearLayout>
+</FrameLayout>

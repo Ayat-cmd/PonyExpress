@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/notes_page"
+        android:title="@string/tab_my_orders"
+        android:icon="@drawable/ic_main"/>
+    <item
+        android:id="@+id/clients_page"
+        android:title="@string/tab_points"
+        android:icon="@drawable/ic_branches"/>
+    <item
+        android:id="@+id/finance_page"
+        android:title="@string/tab_notifications"
+        android:icon="@drawable/ic_notification"/>
+    <item
+        android:id="@+id/profile_page"
+        android:title="@string/tab_other"
+        android:icon="@drawable/ic_other" />
+</menu>

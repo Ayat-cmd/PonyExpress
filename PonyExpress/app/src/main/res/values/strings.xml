@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">PonyExpress</string>
+
+    <string name="tab_my_orders">Мои заказы</string>
+    <string name="tab_points">Отделения</string>
+    <string name="tab_notifications">Уведомления</string>
+    <string name="tab_other">Еще</string>
+
+    <string name="orders_search_title">Поиск отправления</string>
+    <string name="orders_search_hint">Введите номер отправления</string>
+    <string name="orders_list_title">Список отправлений</string>
+    <string name="orders_list_subtitle">Здесь находятся все ваши заказы</string>
+    <string name="orders_create_btn">Создать отправление</string>
+    <string name="orders_order_delivered">Доставлено</string>
+    <string name="orders_order_address">Адресс доставки:</string>
+    <string name="orders_order_date">Доставка:</string>
+    <string name="orders_not_auth">Авторизуйтесь, чтобы\n воспользоватья всем\n функционалом приложения</string>
+
+    <string name="points_title">Отделения</string>
+    <string name="points_map">Карта</string>
+    <string name="points_list">Список</string>
+    <string name="points_detail_open_map">Показать на карте</string>
+    <string name="points_detail_open_way">Построить маршрут</string>
+    <string name="points_filter_title">Фильтр</string>
+    <string name="points_filter_confirm">Применить</string>
+    
+    <string name="notifications_title">Уведомления</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="settings_btn_help">Обратная связь</string>
+    <string name="settings_btn_coll">Онлайн звонок</string>
+    <string name="settings_btn_info">О приложении</string>
+    <string name="settings_help_title">Пишите нам в чат</string>
+    <string name="settings_feedback_title">Обратная связь</string>
+    <string name="settings_feedback_message">Текст обращения</string>
+    <string name="settings_feedback_add_file">Прикрепить файл</string>
+    <string name="settings_feedback_file_added">Файл прикреплен</string>
+    <string name="settings_feedback_email_title">Важно!</string>
+    <string name="settings_feedback_email_message">Укажите свою почту, чтобы мы могли отправить Вам ответ</string>
+    <string name="settings_feedback_email_head">Почта</string>
+    <string name="settings_addresses_title">Адресная книга</string>
+    <string name="settings_addresses_edit">Редактировать</string>
+    <string name="settings_addresses_remove">Удалить</string>
+    <string name="settings_addresses_name">Название</string>
+    <string name="settings_addresses_address">Адрес</string>
+    <string name="settings_addresses_contact">Контактное лицо</string>
+    <string name="settings_addresses_phone">Телефон</string>
+    <string name="settings_addresses_add_new_btn">Добавить новый адрес</string>
+    <string name="settings_addresses_add_address_name">Название адреса</string>
+    <string name="settings_addresses_add_address">Адрес</string>
+    <string name="settings_addresses_add_contact">Контактное лицо</string>
+
+    <string name="settings_btn_addresses">Адресная книга</string>
+    <string name="settings_btn_plan">Шаблоны отправлений</string>
+    <string name="settings_btn_for_go">Для отправки</string>
+
+    <string name="auth_title">Авторизация</string>
+    <string name="auth_number">Номер телефона</string>
+    <string name="auth_password">Паполь</string>
+    <string name="auth_login">Войти</string>
+    <string name="auth_login_other">Или войдите через</string>
+    <string name="auth_has_account">Нет аккаунта?</string>
+    <string name="auth_go_to_reg">Зарегестрироваться</string>
+    <string name="auth_reg_title">Номер телефона</string>
+    <string name="auth_reg_subtitle">На указанный номер придет смс с кодом</string>
+    <string name="auth_reg_phone">Номер телефона</string>
+    <string name="auth_reg_send_code">Отправить код</string>
+    <string name="auth_reg_phone_checkbox">Продолжая регистрацию, я даю согласие на обработку персональных данных и соглашаюсь с Правилами пользования приложения</string>
+    <string name="auth_reg_sms_title">Подтвердите номер</string>
+    <string name="auth_reg_sms_subtitle">Введите код из СМС-сообщения</string>
+    <string name="auth_reg_sms_resend_btn">Отправить код повторно</string>
+    <string name="remember_password">Забыли пароль?</string>
+    <string name="remember_me">Запомнить меня</string>
+    <string name="departure_city">Город отправления</string>
+    <string name="find_city">Поиск города</string>
+
+
+</resources>

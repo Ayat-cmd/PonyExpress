@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#008F4C</color>
+    <color name="colorAccentLite">#008F4C</color>
+    <color name="colorAccentWhite">#FFFFFF</color>
+
+    <color name="colorAccentGreen1">#008F4C</color>
+    <color name="colorAccentGreen2">#7CB82F</color>
+    <color name="colorAccentDarkGrey">#9696A1</color>
+    <color name="colorAccentGrey1">#E1E1E5</color>
+    <color name="colorAccentGrey2">#EFEFF0</color>
+    <color name="colorAccentBlue">#E9E9F5</color>
+    <color name="colorAccentBG">#FAFAFA</color>
+    <color name="colorAccentRed">#F54748</color>
+
+    <color name="colorTextBlack">#272729</color>
+    <color name="colorTextBlack60">#71717A</color>
+    <color name="colorTextBlack50">#82828D</color>
+    <color name="colorTextBlack40">#9696A1</color>
+    <color name="colorTextBlack20">#C0C0CA</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTextGreen1">#008F4C</color>
+    <color name="colorTextGreen2">#7CB82F</color>
+
+    <color name="colorIconBlack">#272729</color>
+    <color name="colorIconWhite">#FFFFFF</color>
+    <color name="colorIconGreen1">#008F4C</color>
+    <color name="colorIconGreen2">#7CB82F</color>
+    <color name="colorIconBlack40">#9E9EA1</color>
+    <color name="colorIconBlack20">#C6C6CA</color>
+
+    <color name="colorDelivery">#4AA96C</color>
+
+    <!-- Навигация и статус бар -->
+    <color name="colorStatusBar">#00FFFFFF</color>
+    <color name="colorNavigationBar">#00FFFFFF</color>
+</resources>
